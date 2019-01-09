@@ -1,4 +1,4 @@
-# ImageMorphing
+# Image Morphing
 Course Project for CIS581 Computer Vision and Photography
 
 Author: Wenbo Zhang
