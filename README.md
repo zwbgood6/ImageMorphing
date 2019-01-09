@@ -19,5 +19,5 @@ morph_tri.m
 project2_testimg.png
 
 - output video:
-Project2_eval_trig.avi
+Project2_eval_trig.zip
 
